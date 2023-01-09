@@ -1,0 +1,11 @@
+flask==2.0.2
+asgiref
+asyncio==3.4.3
+scipy==1.7.3
+Werkzeug==2.0.2
+Flask-SQLAlchemy
+flask-login
+pyngrok
+Flask-SimpleMDE
+Flask-Markdown
+
