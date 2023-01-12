@@ -1,6 +1,6 @@
 
 
-FROM python:3.9-slim-buster
+FROM python:3.12.0a3-slim-bullseye
 
 WORKDIR /NotesApp
 
